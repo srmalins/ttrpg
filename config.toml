@@ -1,4 +1,4 @@
-baseURL = "https://example.org"
+baseURL = "//ttrpg.twilighteve.com/"
 theme = "hugo_theme_adam_eve"
 DefaultContentLanguage = "en"
 
@@ -17,6 +17,9 @@ title = "About TTRPG"
 
 [Languages.en.params]
 description = "Table-Top Role-Playing Games and Table-Top Role-Playing Games Accessories"
+
+# Use Git Commit Date as last edited date
+EnableGitInfo = true
 
 [markup]
   [markup.tableOfContents]
