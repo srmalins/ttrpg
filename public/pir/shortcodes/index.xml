@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shorrrtcodes on Documentat&#39;n fer Cap&#39;n Hugo Relearrrn Theme</title>
+    <link>https://example.com/pir/shortcodes/</link>
+    <description>Recent content in Shorrrtcodes on Documentat&#39;n fer Cap&#39;n Hugo Relearrrn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://example.com/pir/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Children</title>
+      <link>https://example.com/pir/shortcodes/children/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/pir/shortcodes/children/</guid>
+      <description>Use th&#39; children shorrrtcode t&#39; list th&#39; child planks o&#39; a plank an&#39; th&#39; further descendants (children&amp;rsquo;s children). By default, th&#39; shorrrtcode displays links t&#39; th&#39; child planks.
+Usage    Parameter Default Descript&#39;n     plank current Specify th&#39; plank name (section name) t&#39; display children fer   containerstyle &amp;ldquo;ul&amp;rdquo; Choose th&#39; style used t&#39; group all children. It could be any HTML tag name   style &amp;ldquo;li&amp;rdquo; Choose th&#39; style used t&#39; display each descendant.</description>
+    </item>
+    <item>
+      <title>Attachments</title>
+      <link>https://example.com/pir/shortcodes/attachments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/pir/shortcodes/attachments/</guid>
+      <description>Attachments NoTreasure.txt (26 B)   Th&#39; Attachments shorrrtcode displays a list o&#39; files attached t&#39; a plank.
+Attachments adivorciarsetoca00cape.pdf (361 KB) BachGavotteShort.mp3 (357 KB) Carroll_AliceAuPaysDesMerveilles.pdf (175 KB) hugo.png (17 KB) hugo.txt (20 B) movieselectricsheep-flock-244-32500-2.mp4 (340 KB)   Usage Th&#39; shortcurt lists files found &#39;n a specific folder. Currently, it support two implementat&#39;ns fer planks
+  If yer plank be a Marrrkdown file, attachements must be placed &#39;n a folder named like yer plank an&#39; end&#39;n wit&#39; .</description>
+    </item>
+    <item>
+      <title>Button</title>
+      <link>https://example.com/pir/shortcodes/button/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/pir/shortcodes/button/</guid>
+      <description> A button be a just a click&#39;ble button wit&#39; optional ay&#39;con.
+{{% button href=&amp;#34;https://gohugo.io/&amp;#34; %}}Get Hugo{{% /button %}} {{% button href=&amp;#34;https://gohugo.io/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; %}}Get Cap&#39;n Hugo wit&#39; icon{{% /button %}} {{% button href=&amp;#34;https://gohugo.io/&amp;#34; icon=&amp;#34;fas fa-download&amp;#34; ay&#39;con-position=&amp;#34;right&amp;#34; %}}Get Cap&#39;n Hugo wit&#39; ay&#39;con right{{% /button %}}  Get Cap&#39;n Hugo   Get Cap&#39;n Hugo wit&#39; ay&#39;con  Get Cap&#39;n Hugo wit&#39; ay&#39;con right   </description>
+    </item>
+    <item>
+      <title>Expand</title>
+      <link>https://example.com/pir/shortcodes/expand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/pir/shortcodes/expand/</guid>
+      <description>Th&#39; Expand shorrrtcode displays an expandable/collaps&#39;ble section o&#39; text on yer plank.
+Usage {{% expand [ &amp;lt;str&#39;n&amp;gt; [ &amp;#34;true&amp;#34; | &amp;#34;false&amp;#34; ] ] %}} Yes! {{% /expand %}} Th&#39; first optional parameter defines th&#39; text that appears next t&#39; th&#39; expand/collapse ay&#39;con. Th&#39; default text be &amp;quot;Expand me...&amp;quot;.
+Th&#39; second optional parameter controls if th&#39; block be initially shown as expanded (&amp;quot;true&amp;quot;) or collapsed (&amp;quot;false&amp;quot;). Th&#39; default ist &amp;quot;false&amp;quot;.</description>
+    </item>
+    <item>
+      <title>Include</title>
+      <link>https://example.com/pir/shortcodes/include/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/pir/shortcodes/include/</guid>
+      <description>Th&#39; include shorrrtcode includes other files from yer project inside o&#39; th&#39; current file. This can even contain Marrrkdown an&#39; will be taken into account when generat&#39;n th&#39; t&#39;ble o&#39; contents.
+Usage {{% include &amp;lt;str&#39;n&amp;gt; [ &amp;#34;true&amp;#34; | &amp;#34;false&amp;#34; ] %}} Th&#39; first required parameter be th&#39; path t&#39; th&#39; file t&#39; be included.
+If th&#39; file&amp;rsquo;s rambl&#39;n will be displayed as HTML, th&#39; second optional parameter controls if th&#39; first head&#39;n o&#39; th&#39; included file should be displayed (&amp;quot;true&amp;quot;)- which be th&#39; default - or be hidden.</description>
+    </item>
+    <item>
+      <title>Merrrmaid</title>
+      <link>https://example.com/pir/shortcodes/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/pir/shortcodes/mermaid/</guid>
+      <description>Merrrmaid be a library help&#39;n ye t&#39; generate diagram an&#39; flowcharts from text, &#39;n a similar manner as Marrrkdown.
+Usage Just insert yer Merrrmaid code &#39;n th&#39; mermaid shorrrtcode like this:
+{{&amp;lt; mermaid [ align=(&amp;#34;left&amp;#34;|&amp;#34;right&amp;#34;|&amp;#34;center&amp;#34;|&amp;#34;justify&amp;#34;) ] &amp;gt;}} classDiagram Person *-- Dog {{&amp;lt; /mermaid &amp;gt;}} Ye can set an optional align attribute which defaults t&#39; &amp;quot;center&amp;quot;.
+If ye don&amp;rsquo;t need alignment ye can use th&#39; alternative rules us&#39;n code fences if ye have turned off guessSyntax fer th&#39; marrrkup.</description>
+    </item>
+    <item>
+      <title>Notice</title>
+      <link>https://example.com/pir/shortcodes/notice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/pir/shortcodes/notice/</guid>
+      <description>Th&#39; notice shorrrtcode shows four types o&#39; disclaimers t&#39; help ye structure yer plank.
+Usage {{% notice ( note | info | tip | warning ) [ &amp;lt;str&#39;n&amp;gt; ] %}} Some marrrkup {{% /notice %}} Th&#39; first parameter be required an&#39; indicates th&#39; type o&#39; notice.
+Th&#39; second parameter be optional. If provided, it will be used as th&#39; title o&#39; th&#39; notice. If not provided, then th&#39; type o&#39; notice will be used as th&#39; title.</description>
+    </item>
+    <item>
+      <title>Ship param</title>
+      <link>https://example.com/pir/shortcodes/siteparam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/pir/shortcodes/siteparam/</guid>
+      <description>Th&#39; siteparam shorrrtcode be used t&#39; help ye print values o&#39; ship params.
+Usage {{% siteparam &amp;lt;str&#39;n&amp;gt; %}} Th&#39; first required parameter be th&#39; name o&#39; th&#39; ship param t&#39; be displayed.
+Examples For instance, &#39;n this current ship, th&#39; editURL vari&#39;ble be used &#39;n config.toml
+[params] editURL = &amp;#34;https://github.com/McShelby/hugo-theme-relearn/edit/main/exampleSite/content/&amp;#34; Use th&#39; siteparam shorrrtcode t&#39; display its value.
+`editURL` Value : {{% siteparam &amp;#34;editURL&amp;#34; %}} be displayed as
+editURL Value : https://github.</description>
+    </item>
+    <item>
+      <title>Tabbed views</title>
+      <link>https://example.com/pir/shortcodes/tabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/pir/shortcodes/tabs/</guid>
+      <description>Choose which rambl&#39;n t&#39; see across th&#39; plank. Very handy fer provid&#39;n code snippets fer multiple languages or provid&#39;n configurat&#39;n &#39;n different formats.
+Code example {{&amp;lt; tabs &amp;gt;}} {{% tab name=&amp;#34;python&amp;#34; %}} ```python print(&amp;#34;Hello World!&amp;#34;) ``` {{% /tab %}} {{% tab name=&amp;#34;R&amp;#34; %}} ```R &amp;gt; print(&amp;#34;Hello World!&amp;#34;) ``` {{% /tab %}} {{% tab name=&amp;#34;Bash&amp;#34; %}} ```Bash echo &amp;#34;Hello World!&amp;#34; ``` {{% /tab %}} {{&amp;lt; /tabs &amp;gt;}} Renders as:
+python R Bash  print(&amp;#34;Hello World!</description>
+    </item>
+  </channel>
+</rss>

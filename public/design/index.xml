@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Designs on About TTRPG</title>
+    <link>https://example.org/design/</link>
+    <description>Recent content in Designs on About TTRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Aug 2018 19:32:57 +0200</lastBuildDate><atom:link href="https://example.org/design/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Styles</title>
+      <link>https://example.org/design/styles/</link>
+      <pubDate>Mon, 13 Aug 2018 19:32:57 +0200</pubDate>
+      
+      <guid>https://example.org/design/styles/</guid>
+      <description>Styles Objects used for aquariums include: coffee tables, sinks, gumball machines and even toilets. Another such example is the MacQuarium, an aquarium made from the shell of an Apple Macintosh computer. In recent years, elaborate custom-designed home aquariums costing hundreds of thousands of dollars have become status symbols—according to The New York Times, &amp;ldquo;among people of means, a dazzling aquarium is one of the last surefire ways to impress their peers.</description>
+    </item>
+    
+    <item>
+      <title>Materials</title>
+      <link>https://example.org/design/materials/</link>
+      <pubDate>Mon, 13 Aug 2018 19:22:34 +0200</pubDate>
+      
+      <guid>https://example.org/design/materials/</guid>
+      <description>Materials Most aquaria consist of glass panes bonded together by 100% silicone sealant, with plastic frames attached to the upper and lower edges for decoration. The glass aquarium is standard for sizes up to about 1,000 litres (260 US gal; 220 imp gal). However, glass as a material is brittle and has very little give before fracturing, though generally the sealant fails first. Aquaria are made in a variety of shapes, such as cuboid, hexagonal, angled to fit in a corner (L-shaped), and bow-front (the front side curves outwards).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prcs on About TTRPG</title>
+    <link>https://example.org/prc/</link>
+    <description>Recent content in Prcs on About TTRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 13 Aug 2018 19:22:34 +0200</lastBuildDate><atom:link href="https://example.org/prc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Soldier of the Blood Queen</title>
+      <link>https://example.org/prc/sotbq/</link>
+      <pubDate>Mon, 13 Aug 2018 19:22:34 +0200</pubDate>
+      
+      <guid>https://example.org/prc/sotbq/</guid>
+      <description>The Blood Queen is an ancient undead vampire Deity that is also a goddess of war and conquest. It is rumored that The Blood Queen still maintains a physical form on one of the dark and desolate outer-planes; still other rumors indicate that she long ago transcended physical representation at a fixed point in either time or space. Her will is expressed through her clerics, the most devout and trusted of which are called to be Soldiers; Lieutenants, Captains, Generals, and individual champions in battle her Soldiers are the direct expression of her will in the multiverse.</description>
+    </item>
+    
+  </channel>
+</rss>
