@@ -7,12 +7,12 @@ draft: false
 **The Blood Queen** is an ancient undead vampire Deity that is also a
 goddess of war and conquest. It is rumored that **The Blood Queen**
 still maintains a physical form on one of the dark and desolate
-outer-planes; still other rumors indicate that she long ago transcended
-physical representation at a fixed point in either time or space. Her
-will is expressed through her clerics, the most devout and trusted of
-which are called to be Soldiers; Lieutenants, Captains, Generals, and
-individual champions in battle her Soldiers are the direct expression
-of her will in the multiverse. 
+outer-planes; still other rumors indicate that she long ago
+transcended physical representation at a fixed point in either time or
+space. Her will is expressed through her clerics, the most devout and
+trusted of which are called to be Soldiers; they are Her: Lieutenants,
+Captains, Generals, and individual champions in battle. Her Soldiers
+are the direct expression of her will in the multiverse.
 
 **Hit Die:** d6
 

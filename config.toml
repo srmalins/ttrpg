@@ -6,9 +6,6 @@ DefaultContentLanguage = "en"
 [markup.goldmark.renderer]
 unsafe= true
 
-# Enable GitInfo
-enableGitInfo = true
-
 # Enable Emoji, regarding https://www.webfx.com/tools/emoji-cheat-sheet
 enableEmoji = true
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
@@ -21,7 +18,7 @@ title = "About TTRPG"
 [Languages.en.params]
 description = "Table-Top Role-Playing Games and Table-Top Role-Playing Games Accessories"
 
-# Use Git Commit Date as last edited date
+# Enable Git Info
 EnableGitInfo = true
 
 [markup]
