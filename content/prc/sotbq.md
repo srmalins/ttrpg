@@ -1,6 +1,5 @@
 ---
 title: "Soldier of the Blood Queen"
-date: 2018-08-13T19:22:34+02:00
 draft: false
 ---
 # Soldier of the Blood Queen 

@@ -6,6 +6,9 @@ DefaultContentLanguage = "en"
 [markup.goldmark.renderer]
 unsafe= true
 
+# Enable GitInfo
+enableGitInfo = true
+
 # Enable Emoji, regarding https://www.webfx.com/tools/emoji-cheat-sheet
 enableEmoji = true
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
